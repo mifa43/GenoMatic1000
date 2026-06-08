@@ -1,0 +1,16 @@
+Column,Type,Required,Description,Example
+sample_id,string,yes,Stable pseudonymous sample key,SAMPLE_000001
+assembly,category,yes,Reference genome build,GRCh38
+chrom,string,yes,Chromosome name normalized without chr prefix,17
+pos,int,yes,VCF POS / event start,14100000
+end,int,yes for SV,VCF INFO END or inferred end,15600000
+svtype,category,yes for SV,SV type from INFO,DUP
+svlen,int,recommended,Event length; can be signed depending source,1500000
+copy_number,float/int,recommended,CN value if present,3
+genotype,string,optional,Sample GT field if available,0/1
+overlaps_pmp22,bool,yes,Interval intersects PMP22 target window,TRUE
+pmp22_overlap_bp,int,yes,Number of overlapping base pairs with target region,35548
+pmp22_overlap_fraction,float,yes,Overlap bp / PMP22 span or chosen target span,1.0
+classification_hint,category,yes,Pipeline-derived coarse label,PMP22_DUP_CANDIDATE
+source_file,string,yes,Original local input file,patient.vcf.gz
+source_record_id,string,optional,VCF ID or generated hash,esv...
