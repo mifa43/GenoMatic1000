@@ -1,0 +1,2 @@
+assembly,chromosome,start_1based,end_1based,bed_start_0based,bed_end_half_open,gene_symbol,ensembl_gene_id,strand,target_reason
+GRCh38,17,15229773,15272292,15229772,15272292,PMP22,ENSG00000109099,-,"Primary CMT1A target interval; filter CNV/SV records for overlap, especially SVTYPE=DUP"

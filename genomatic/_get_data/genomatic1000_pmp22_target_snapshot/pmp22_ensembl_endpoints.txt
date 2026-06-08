@@ -1,0 +1,14 @@
+# GenoMatic1000 PMP22 Ensembl endpoints
+# Use these from your Windows machine when you want to refresh the local snapshot.
+
+1) Expanded gene model: gene + transcripts + exons
+https://rest.ensembl.org/lookup/id/ENSG00000109099?expand=1;content-type=application/json
+
+2) Core annotation overlap for the region
+https://rest.ensembl.org/overlap/region/human/17:15229773-15272292?feature=gene;feature=transcript;feature=exon;content-type=application/json
+
+3) Structural variation overlap for the region
+https://rest.ensembl.org/overlap/region/human/17:15229773-15272292?feature=structural_variation;content-type=application/json
+
+4) Browser page you are currently using
+https://www.ensembl.org/Homo_sapiens/Gene/Summary?db=core;g=ENSG00000109099;r=17:15229773-15272292

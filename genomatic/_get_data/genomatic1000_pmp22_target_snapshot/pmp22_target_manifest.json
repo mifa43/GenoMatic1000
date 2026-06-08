@@ -1,0 +1,50 @@
+{
+  "project": "GenoMatic1000",
+  "target": "PMP22 / CMT1A primary genomic target",
+  "created_utc": "2026-06-08",
+  "assembly": "GRCh38/hg38",
+  "species": "Homo sapiens",
+  "ensembl_gene_id": "ENSG00000109099",
+  "gene_symbol": "PMP22",
+  "gene_name": "peripheral myelin protein 22",
+  "chromosome": "17",
+  "cytoband": "17p12",
+  "strand": "reverse/minus",
+  "region_1_based_inclusive": {
+    "chromosome": "17",
+    "start": 15229773,
+    "end": 15272292,
+    "notation": "17:15229773-15272292"
+  },
+  "bed_0_based_half_open": {
+    "chromosome": "chr17",
+    "start": 15229772,
+    "end": 15272292,
+    "name": "PMP22_ENSG00000109099_GRCh38"
+  },
+  "primary_variant_class_for_cmt1a": {
+    "variant_type": "CNV / structural variant",
+    "expected_svtype": "DUP",
+    "expected_copy_number_concept": "normal diploid copy number is usually 2; CMT1A classically involves PMP22-region duplication, often interpreted as 3 copies in affected heterozygous state",
+    "do_not_confuse_with": "ordinary SNP-only analysis"
+  },
+  "local_analysis_purpose": [
+    "Use this target as an interval filter for VCF/SV/CNV records.",
+    "Prioritize records where CHROM=17 and record interval overlaps 15229773-15272292 on GRCh38.",
+    "Inspect INFO fields such as SVTYPE, END, SVLEN, CN, CNV, CIPOS, CIEND and genotype fields such as GT/CN when present."
+  ],
+  "source_urls": {
+    "ensembl_browser_user_url": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?db=core;g=ENSG00000109099;r=17:15229773-15272292",
+    "ensembl_rest_lookup_expanded": "https://rest.ensembl.org/lookup/id/ENSG00000109099?expand=1;content-type=application/json",
+    "ensembl_rest_region_overlap_core": "https://rest.ensembl.org/overlap/region/human/17:15229773-15272292?feature=gene;feature=transcript;feature=exon;content-type=application/json",
+    "ensembl_rest_region_overlap_structural_variation": "https://rest.ensembl.org/overlap/region/human/17:15229773-15272292?feature=structural_variation;content-type=application/json",
+    "ncbi_gene": "https://www.ncbi.nlm.nih.gov/gene/5376",
+    "uniprot": "https://www.uniprot.org/uniprotkb/Q01453/entry",
+    "decipher": "https://www.deciphergenomics.org/gene/PMP22/overview"
+  },
+  "notes": [
+    "Coordinates are assembly-dependent. Do not mix GRCh37 and GRCh38 files without liftover or explicit assembly metadata.",
+    "The user-provided Ensembl page and DECIPHER both identify PMP22 around chr17:15.23-15.27 Mb on GRCh38.",
+    "For GenoMatic1000, this is a target manifest, not a patient diagnosis file."
+  ]
+}
