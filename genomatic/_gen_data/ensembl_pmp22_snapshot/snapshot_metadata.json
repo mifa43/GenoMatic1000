@@ -1,0 +1,20 @@
+{
+  "target": "PMP22 / ENSG00000109099",
+  "assembly": "GRCh38/hg38",
+  "region": "17:15229773-15272292",
+  "source": "Ensembl REST",
+  "files": [
+    {
+      "filename": "pmp22_lookup_expand.json",
+      "url": "https://rest.ensembl.org/lookup/id/ENSG00000109099?expand=1;content-type=application/json"
+    },
+    {
+      "filename": "pmp22_region_core_overlap.json",
+      "url": "https://rest.ensembl.org/overlap/region/human/17:15229773-15272292?feature=gene;feature=transcript;feature=exon;content-type=application/json"
+    },
+    {
+      "filename": "pmp22_region_structural_variation_overlap.json",
+      "url": "https://rest.ensembl.org/overlap/region/human/17:15229773-15272292?feature=structural_variation;content-type=application/json"
+    }
+  ]
+}

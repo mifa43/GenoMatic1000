@@ -1,0 +1,2837 @@
+[
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 83084062,
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv2769779",
+    "start": 150733
+  },
+  {
+    "id": "nsv3907261",
+    "seq_region_name": "17",
+    "start": 150733,
+    "strand": 1,
+    "end": 83084062,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "end": 19335128,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "start": 152427,
+    "id": "nsv984771",
+    "strand": 1
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 83100564,
+    "feature_type": "structural_variation",
+    "start": 157423,
+    "seq_region_name": "17",
+    "id": "nsv3899740",
+    "strand": 1
+  },
+  {
+    "end": 83102004,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "id": "nsv3903684",
+    "seq_region_name": "17",
+    "start": 158756,
+    "strand": 1
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv3906245",
+    "start": 162553,
+    "feature_type": "structural_variation",
+    "end": 83100251,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "start": 203657,
+    "seq_region_name": "17",
+    "id": "nsv1062350",
+    "strand": 1,
+    "end": 20301559,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "end": 20301559,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "start": 203657,
+    "id": "nsv543103",
+    "strand": 1
+  },
+  {
+    "strand": 1,
+    "start": 203657,
+    "seq_region_name": "17",
+    "id": "nsv1194214",
+    "feature_type": "structural_variation",
+    "end": 20301559,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 21558472,
+    "feature_type": "structural_variation",
+    "id": "nsv984824",
+    "seq_region_name": "17",
+    "start": 239173,
+    "strand": 1
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 17362744,
+    "feature_type": "structural_variation",
+    "start": 302571,
+    "seq_region_name": "17",
+    "id": "nsv2728619",
+    "strand": 1
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv1141883",
+    "start": 5142272,
+    "feature_type": "structural_variation",
+    "end": 60211272,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "strand": 1,
+    "start": 9682848,
+    "seq_region_name": "17",
+    "id": "nsv4436354",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 16422654
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 21607725,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 10868631,
+    "id": "nsv2768967"
+  },
+  {
+    "strand": 1,
+    "id": "nsv531182",
+    "seq_region_name": "17",
+    "start": 10892259,
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 17964282
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 17964282,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "id": "nsv3917939",
+    "seq_region_name": "17",
+    "start": 10892259
+  },
+  {
+    "end": 17892664,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "start": 11915997,
+    "id": "nsv6315277",
+    "strand": 1
+  },
+  {
+    "start": 12620906,
+    "seq_region_name": "17",
+    "id": "nsv6291529",
+    "strand": 1,
+    "end": 16144253,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 17180582,
+    "strand": 1,
+    "start": 12783146,
+    "seq_region_name": "17",
+    "id": "nsv4323776"
+  },
+  {
+    "strand": 1,
+    "id": "nsv1059541",
+    "seq_region_name": "17",
+    "start": 13413509,
+    "feature_type": "structural_variation",
+    "end": 21257592,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "strand": 1,
+    "start": 13413509,
+    "seq_region_name": "17",
+    "id": "nsv543206",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 21257592
+  },
+  {
+    "strand": 1,
+    "id": "nsv1195913",
+    "seq_region_name": "17",
+    "start": 13413509,
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 21257592
+  },
+  {
+    "seq_region_name": "17",
+    "start": 14022600,
+    "id": "nsv5520330",
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15889111,
+    "feature_type": "structural_variation"
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 14126296,
+    "id": "nsv530558",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15659587
+  },
+  {
+    "end": 15659587,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "start": 14126296,
+    "seq_region_name": "17",
+    "id": "nsv3924940",
+    "strand": 1
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15577795,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 14133991,
+    "id": "esv2751618"
+  },
+  {
+    "start": 14156866,
+    "seq_region_name": "17",
+    "id": "nsv517192",
+    "strand": 1,
+    "end": 15567865,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15574186,
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv3150054",
+    "start": 14159874
+  },
+  {
+    "start": 14159934,
+    "seq_region_name": "17",
+    "id": "nsv4349644",
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15546313,
+    "feature_type": "structural_variation"
+  },
+  {
+    "id": "nsv6290279",
+    "seq_region_name": "17",
+    "start": 14169967,
+    "strand": 1,
+    "end": 15538982,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "strand": 1,
+    "id": "nsv6637912",
+    "seq_region_name": "17",
+    "start": 14170246,
+    "feature_type": "structural_variation",
+    "end": 15576609,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 14170286,
+    "id": "nsv2771996",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15579459
+  },
+  {
+    "strand": 1,
+    "id": "nsv3922449",
+    "seq_region_name": "17",
+    "start": 14170286,
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15579459
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15588218,
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "start": 14173113,
+    "id": "nsv3906797",
+    "strand": 1
+  },
+  {
+    "seq_region_name": "17",
+    "id": "nsv6315538",
+    "start": 14173672,
+    "strand": 1,
+    "end": 15569998,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv6637466",
+    "start": 14174502,
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15588218
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "esv3582540",
+    "start": 14174947,
+    "feature_type": "structural_variation",
+    "end": 15576626,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "strand": 1,
+    "start": 14174966,
+    "seq_region_name": "17",
+    "id": "nsv6637794",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15576626
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15467130,
+    "feature_type": "structural_variation",
+    "id": "nsv4684248",
+    "seq_region_name": "17",
+    "start": 14176313,
+    "strand": 1
+  },
+  {
+    "end": 15880697,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "start": 14178517,
+    "seq_region_name": "17",
+    "id": "nsv932807",
+    "strand": 1
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15518547,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv3882402",
+    "start": 14178908
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv6637838",
+    "start": 14179628,
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15581544
+  },
+  {
+    "strand": 1,
+    "start": 14179641,
+    "seq_region_name": "17",
+    "id": "nsv4621486",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15581557
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15559740,
+    "feature_type": "structural_variation",
+    "id": "nsv2771758",
+    "seq_region_name": "17",
+    "start": 14179737,
+    "strand": 1
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv3892562",
+    "start": 14179737,
+    "feature_type": "structural_variation",
+    "end": 15559740,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15571773,
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv996133",
+    "start": 14179737
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15571773,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv3910240",
+    "start": 14179737
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15576626,
+    "strand": 1,
+    "id": "nsv3903847",
+    "seq_region_name": "17",
+    "start": 14179737
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 14179737,
+    "id": "nsv2770518",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15588218
+  },
+  {
+    "start": 14179737,
+    "seq_region_name": "17",
+    "id": "nsv3907635",
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15588218,
+    "feature_type": "structural_variation"
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv2776964",
+    "start": 14179737,
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15588219
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15588219,
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 14179737,
+    "id": "nsv3897621"
+  },
+  {
+    "end": 15664355,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "id": "nsv996227",
+    "seq_region_name": "17",
+    "start": 14179737,
+    "strand": 1
+  },
+  {
+    "start": 14179737,
+    "seq_region_name": "17",
+    "id": "nsv3909954",
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15664355,
+    "feature_type": "structural_variation"
+  },
+  {
+    "end": 15580294,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "id": "nsv6637650",
+    "start": 14179738,
+    "strand": 1
+  },
+  {
+    "seq_region_name": "17",
+    "id": "nsv6637965",
+    "start": 14179738,
+    "strand": 1,
+    "end": 15581545,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15581545,
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv917884",
+    "start": 14182307
+  },
+  {
+    "strand": 1,
+    "start": 14182308,
+    "seq_region_name": "17",
+    "id": "nsv1063383",
+    "feature_type": "structural_variation",
+    "end": 15571773,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15581545,
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "id": "nsv1063851",
+    "start": 14182308,
+    "strand": 1
+  },
+  {
+    "end": 15608806,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "start": 14182335,
+    "seq_region_name": "17",
+    "id": "nsv3893741",
+    "strand": 1
+  },
+  {
+    "end": 15571773,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "start": 14183471,
+    "id": "nsv1060175",
+    "strand": 1
+  },
+  {
+    "seq_region_name": "17",
+    "start": 14183541,
+    "id": "nsv3888493",
+    "strand": 1,
+    "end": 15573247,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15569998,
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 14184470,
+    "id": "nsv2773538"
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15569998,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv3907905",
+    "start": 14184470
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15580294,
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "id": "nsv2769456",
+    "start": 14184470,
+    "strand": 1
+  },
+  {
+    "end": 15580294,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "id": "nsv3898985",
+    "seq_region_name": "17",
+    "start": 14184470,
+    "strand": 1
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 14184470,
+    "id": "nsv932286",
+    "feature_type": "structural_variation",
+    "end": 15586786,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "start": 14184470,
+    "seq_region_name": "17",
+    "id": "nsv3915951",
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15586786,
+    "feature_type": "structural_variation"
+  },
+  {
+    "strand": 1,
+    "id": "nsv6637613",
+    "seq_region_name": "17",
+    "start": 14184471,
+    "feature_type": "structural_variation",
+    "end": 15581544,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv2777603",
+    "start": 14184616,
+    "feature_type": "structural_variation",
+    "end": 15534016,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "strand": 1,
+    "start": 14184616,
+    "seq_region_name": "17",
+    "id": "nsv3909173",
+    "feature_type": "structural_variation",
+    "end": 15534016,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "end": 15581044,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "start": 14184616,
+    "id": "nsv932304",
+    "strand": 1
+  },
+  {
+    "strand": 1,
+    "start": 14184616,
+    "seq_region_name": "17",
+    "id": "nsv3914436",
+    "feature_type": "structural_variation",
+    "end": 15581044,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15581544,
+    "feature_type": "structural_variation",
+    "id": "nsv995237",
+    "seq_region_name": "17",
+    "start": 14184616,
+    "strand": 1
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15581544,
+    "strand": 1,
+    "start": 14184616,
+    "seq_region_name": "17",
+    "id": "nsv3902390"
+  },
+  {
+    "end": 15581544,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "id": "nsv3924098",
+    "start": 14184616,
+    "strand": 1
+  },
+  {
+    "start": 14184616,
+    "seq_region_name": "17",
+    "id": "nsv2774420",
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15581545,
+    "feature_type": "structural_variation"
+  },
+  {
+    "seq_region_name": "17",
+    "start": 14184616,
+    "id": "nsv2773557",
+    "strand": 1,
+    "end": 15586786,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15586786,
+    "feature_type": "structural_variation",
+    "id": "nsv3903917",
+    "seq_region_name": "17",
+    "start": 14184616,
+    "strand": 1
+  },
+  {
+    "end": 15588218,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "id": "nsv995285",
+    "seq_region_name": "17",
+    "start": 14184616,
+    "strand": 1
+  },
+  {
+    "end": 15588218,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "start": 14184616,
+    "id": "nsv3890913",
+    "strand": 1
+  },
+  {
+    "start": 14184616,
+    "seq_region_name": "17",
+    "id": "nsv3918082",
+    "strand": 1,
+    "end": 15588218,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15597331,
+    "feature_type": "structural_variation",
+    "start": 14184616,
+    "seq_region_name": "17",
+    "id": "nsv932299",
+    "strand": 1
+  },
+  {
+    "id": "nsv3872589",
+    "seq_region_name": "17",
+    "start": 14184616,
+    "strand": 1,
+    "end": 15597331,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "strand": 1,
+    "start": 14184616,
+    "seq_region_name": "17",
+    "id": "nsv3911220",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15597331
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15576626,
+    "strand": 1,
+    "id": "nsv6637590",
+    "seq_region_name": "17",
+    "start": 14184617
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15580294,
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 14184617,
+    "id": "nsv6637494"
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15581044,
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 14184617,
+    "id": "nsv6637249"
+  },
+  {
+    "end": 15581316,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "start": 14184617,
+    "seq_region_name": "17",
+    "id": "nsv6638035",
+    "strand": 1
+  },
+  {
+    "seq_region_name": "17",
+    "start": 14184617,
+    "id": "nsv6637617",
+    "strand": 1,
+    "end": 15588218,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "strand": 1,
+    "start": 14186792,
+    "seq_region_name": "17",
+    "id": "esv2715686",
+    "feature_type": "structural_variation",
+    "end": 15583778,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15583722,
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "id": "nsv6503147",
+    "start": 14186796,
+    "strand": 1
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15563870,
+    "strand": 1,
+    "start": 14186983,
+    "seq_region_name": "17",
+    "id": "nsv530561"
+  },
+  {
+    "id": "nsv3915240",
+    "seq_region_name": "17",
+    "start": 14186983,
+    "strand": 1,
+    "end": 15563870,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "strand": 1,
+    "id": "nsv993485",
+    "seq_region_name": "17",
+    "start": 14186983,
+    "feature_type": "structural_variation",
+    "end": 15570276,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15570276,
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "start": 14186983,
+    "id": "nsv3918998",
+    "strand": 1
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15578926,
+    "feature_type": "structural_variation",
+    "id": "nsv530560",
+    "seq_region_name": "17",
+    "start": 14186983,
+    "strand": 1
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15578926,
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 14186983,
+    "id": "nsv3918195"
+  },
+  {
+    "end": 15573000,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "id": "nsv6314957",
+    "start": 14190001,
+    "strand": 1
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv4532018",
+    "start": 14190182,
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15582686
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "esv2762477",
+    "start": 14190945,
+    "feature_type": "structural_variation",
+    "end": 15581557,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15555409,
+    "strand": 1,
+    "start": 14191370,
+    "seq_region_name": "17",
+    "id": "nsv917614"
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15571773,
+    "feature_type": "structural_variation",
+    "id": "nsv1058609",
+    "seq_region_name": "17",
+    "start": 14191370,
+    "strand": 1
+  },
+  {
+    "strand": 1,
+    "start": 14191370,
+    "seq_region_name": "17",
+    "id": "nsv1059054",
+    "feature_type": "structural_variation",
+    "end": 15581545,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "seq_region_name": "17",
+    "id": "nsv1065031",
+    "start": 14191370,
+    "strand": 1,
+    "end": 15587796,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15607542,
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv1064251",
+    "start": 14191370
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15574233,
+    "feature_type": "structural_variation",
+    "start": 14191939,
+    "seq_region_name": "17",
+    "id": "nsv7148090",
+    "strand": 1
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15589277,
+    "strand": 1,
+    "id": "nsv7148108",
+    "seq_region_name": "17",
+    "start": 14191939
+  },
+  {
+    "end": 15555369,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "id": "nsv3150405",
+    "start": 14191986,
+    "strand": 1
+  },
+  {
+    "seq_region_name": "17",
+    "id": "nsv3144267",
+    "start": 14191986,
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15563453,
+    "feature_type": "structural_variation"
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15566267,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv3149300",
+    "start": 14191986
+  },
+  {
+    "id": "nsv3156017",
+    "seq_region_name": "17",
+    "start": 14191986,
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15593498,
+    "feature_type": "structural_variation"
+  },
+  {
+    "seq_region_name": "17",
+    "start": 14191986,
+    "id": "nsv3140716",
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15594893,
+    "feature_type": "structural_variation"
+  },
+  {
+    "strand": 1,
+    "start": 14191987,
+    "seq_region_name": "17",
+    "id": "nsv959815",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15555366
+  },
+  {
+    "seq_region_name": "17",
+    "id": "nsv7098894",
+    "start": 14191989,
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15563448,
+    "feature_type": "structural_variation"
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 14191989,
+    "id": "nsv7098896",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15569030
+  },
+  {
+    "strand": 1,
+    "id": "nsv2771488",
+    "seq_region_name": "17",
+    "start": 14192322,
+    "feature_type": "structural_variation",
+    "end": 15371395,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15371395,
+    "strand": 1,
+    "start": 14192322,
+    "seq_region_name": "17",
+    "id": "nsv3892772"
+  },
+  {
+    "seq_region_name": "17",
+    "id": "nsv6290299",
+    "start": 14192772,
+    "strand": 1,
+    "end": 15589277,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv4530845",
+    "start": 14193680,
+    "feature_type": "structural_variation",
+    "end": 15583336,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "seq_region_name": "17",
+    "id": "nsv491534",
+    "start": 14194598,
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15567587,
+    "feature_type": "structural_variation"
+  },
+  {
+    "strand": 1,
+    "start": 14194879,
+    "seq_region_name": "17",
+    "id": "nsv6112771",
+    "feature_type": "structural_variation",
+    "end": 15539186,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv6637321",
+    "start": 14194930,
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15572340
+  },
+  {
+    "end": 15513494,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "start": 14194960,
+    "seq_region_name": "17",
+    "id": "nsv949720",
+    "strand": 1
+  },
+  {
+    "end": 15567865,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "start": 14194960,
+    "id": "nsv3871391",
+    "strand": 1
+  },
+  {
+    "seq_region_name": "17",
+    "start": 14194960,
+    "id": "nsv3907505",
+    "strand": 1,
+    "end": 15577848,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "seq_region_name": "17",
+    "start": 14194961,
+    "id": "nsv4680571",
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15581557,
+    "feature_type": "structural_variation"
+  },
+  {
+    "seq_region_name": "17",
+    "id": "nsv2777790",
+    "start": 14195343,
+    "strand": 1,
+    "end": 15597331,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv3905267",
+    "start": 14195343,
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15597331
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15597819,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "id": "nsv2773429",
+    "seq_region_name": "17",
+    "start": 14195343
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15597819,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 14195343,
+    "id": "nsv3903793"
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15591952,
+    "feature_type": "structural_variation",
+    "start": 14195469,
+    "seq_region_name": "17",
+    "id": "nsv3906044",
+    "strand": 1
+  },
+  {
+    "strand": 1,
+    "id": "nsv3874355",
+    "seq_region_name": "17",
+    "start": 14196425,
+    "feature_type": "structural_variation",
+    "end": 15567865,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15572530,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv574388",
+    "start": 14196425
+  },
+  {
+    "strand": 1,
+    "start": 14196425,
+    "seq_region_name": "17",
+    "id": "nsv574389",
+    "feature_type": "structural_variation",
+    "end": 15591952,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15551924,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 14196801,
+    "id": "nsv2777662"
+  },
+  {
+    "end": 15551924,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "start": 14196801,
+    "seq_region_name": "17",
+    "id": "nsv3909035",
+    "strand": 1
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15551983,
+    "feature_type": "structural_variation",
+    "id": "nsv5381804",
+    "seq_region_name": "17",
+    "start": 14196801,
+    "strand": 1
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15555335,
+    "strand": 1,
+    "start": 14196801,
+    "seq_region_name": "17",
+    "id": "nsv2769073"
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15555335,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv3897441",
+    "start": 14196801
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15589086,
+    "strand": 1,
+    "start": 14196801,
+    "seq_region_name": "17",
+    "id": "nsv2769524"
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15589086,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 14196801,
+    "id": "nsv3895073"
+  },
+  {
+    "strand": 1,
+    "id": "nsv3895061",
+    "seq_region_name": "17",
+    "start": 14196801,
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15589130
+  },
+  {
+    "end": 15583567,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "id": "nsv4680027",
+    "seq_region_name": "17",
+    "start": 14197337,
+    "strand": 1
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 14197712,
+    "id": "nsv3900007",
+    "feature_type": "structural_variation",
+    "end": 15546313,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "strand": 1,
+    "start": 14197712,
+    "seq_region_name": "17",
+    "id": "nsv3871363",
+    "feature_type": "structural_variation",
+    "end": 15579503,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "strand": 1,
+    "start": 14197712,
+    "seq_region_name": "17",
+    "id": "nsv3898153",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15601426
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15519243,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "id": "nsv4348898",
+    "seq_region_name": "17",
+    "start": 14200695
+  },
+  {
+    "start": 14200695,
+    "seq_region_name": "17",
+    "id": "nsv4348874",
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15648500,
+    "feature_type": "structural_variation"
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15516854,
+    "feature_type": "structural_variation",
+    "id": "nsv1063465",
+    "seq_region_name": "17",
+    "start": 14201369,
+    "strand": 1
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15516854,
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "start": 14201369,
+    "id": "nsv543209",
+    "strand": 1
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15516854,
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 14201369,
+    "id": "nsv1195404"
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15480455,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "start": 14202557,
+    "seq_region_name": "17",
+    "id": "nsv3894861"
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 14202557,
+    "id": "nsv4349814",
+    "feature_type": "structural_variation",
+    "end": 15708232,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "start": 14206807,
+    "seq_region_name": "17",
+    "id": "nsv3156577",
+    "strand": 1,
+    "end": 15589230,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "seq_region_name": "17",
+    "id": "nsv7093401",
+    "start": 14206810,
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15569030,
+    "feature_type": "structural_variation"
+  },
+  {
+    "strand": 1,
+    "start": 14207134,
+    "seq_region_name": "17",
+    "id": "nsv4348831",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15545783
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15579698,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "id": "nsv1056230",
+    "seq_region_name": "17",
+    "start": 14208254
+  },
+  {
+    "strand": 1,
+    "id": "nsv543210",
+    "seq_region_name": "17",
+    "start": 14208254,
+    "feature_type": "structural_variation",
+    "end": 15579698,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 14208254,
+    "id": "nsv1191275",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15579698
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15538893,
+    "feature_type": "structural_variation",
+    "id": "nsv1061227",
+    "seq_region_name": "17",
+    "start": 14208255,
+    "strand": 1
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15538893,
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 14208255,
+    "id": "nsv532968"
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv1195261",
+    "start": 14208255,
+    "feature_type": "structural_variation",
+    "end": 15538893,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15538864,
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "id": "nsv4729887",
+    "start": 14208437,
+    "strand": 1
+  },
+  {
+    "seq_region_name": "17",
+    "id": "nsv1188351",
+    "start": 14208454,
+    "strand": 1,
+    "end": 15579558,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15579559,
+    "strand": 1,
+    "start": 14208454,
+    "seq_region_name": "17",
+    "id": "nsv1058770"
+  },
+  {
+    "id": "nsv1067738",
+    "seq_region_name": "17",
+    "start": 14208455,
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15538752,
+    "feature_type": "structural_variation"
+  },
+  {
+    "start": 14208455,
+    "seq_region_name": "17",
+    "id": "nsv529389",
+    "strand": 1,
+    "end": 15538752,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "end": 15538752,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "id": "nsv3917285",
+    "start": 14208455,
+    "strand": 1
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv4578264",
+    "start": 14208455,
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15538752
+  },
+  {
+    "strand": 1,
+    "start": 14208455,
+    "seq_region_name": "17",
+    "id": "nsv817590",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15538755
+  },
+  {
+    "id": "nsv3917638",
+    "seq_region_name": "17",
+    "start": 14208455,
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15538755,
+    "feature_type": "structural_variation"
+  },
+  {
+    "end": 15579558,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "id": "nsv915681",
+    "start": 14208455,
+    "strand": 1
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv3914689",
+    "start": 14208455,
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15579558
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv534179",
+    "start": 14208455,
+    "feature_type": "structural_variation",
+    "end": 15588434,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15588434,
+    "strand": 1,
+    "id": "nsv3913816",
+    "seq_region_name": "17",
+    "start": 14208455
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 14208514,
+    "id": "nsv1055320",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15579558
+  },
+  {
+    "strand": 1,
+    "start": 14208514,
+    "seq_region_name": "17",
+    "id": "nsv543211",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15579558
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv1194760",
+    "start": 14208514,
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15579558
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15579459,
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 14208714,
+    "id": "nsv2773857"
+  },
+  {
+    "strand": 1,
+    "id": "nsv3914434",
+    "seq_region_name": "17",
+    "start": 14208714,
+    "feature_type": "structural_variation",
+    "end": 15579459,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "strand": 1,
+    "start": 14225233,
+    "seq_region_name": "17",
+    "id": "nsv4349088",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15519243
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv1063394",
+    "start": 14229434,
+    "feature_type": "structural_variation",
+    "end": 15516854,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "seq_region_name": "17",
+    "id": "nsv3901825",
+    "start": 14236540,
+    "strand": 1,
+    "end": 15804536,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "seq_region_name": "17",
+    "id": "nsv6310148",
+    "start": 14236572,
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15239611,
+    "feature_type": "structural_variation"
+  },
+  {
+    "strand": 1,
+    "start": 14236572,
+    "seq_region_name": "17",
+    "id": "nsv3880191",
+    "feature_type": "structural_variation",
+    "end": 15503232,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv907694",
+    "start": 14240622,
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15552296
+  },
+  {
+    "end": 15516854,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "start": 14257429,
+    "seq_region_name": "17",
+    "id": "nsv1061622",
+    "strand": 1
+  },
+  {
+    "seq_region_name": "17",
+    "start": 14291646,
+    "id": "nsv3903664",
+    "strand": 1,
+    "end": 15546313,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "seq_region_name": "17",
+    "start": 14292325,
+    "id": "nsv4675278",
+    "strand": 1,
+    "end": 15642566,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "seq_region_name": "17",
+    "start": 14294134,
+    "id": "nsv1383391",
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15567865,
+    "feature_type": "structural_variation"
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv3904315",
+    "start": 14312422,
+    "feature_type": "structural_variation",
+    "end": 15519268,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15266598,
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv3893343",
+    "start": 14509995
+  },
+  {
+    "id": "nsv868964",
+    "seq_region_name": "17",
+    "start": 14671118,
+    "strand": 1,
+    "end": 15952996,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15952996,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 14671118,
+    "id": "nsv3916823"
+  },
+  {
+    "start": 14770178,
+    "seq_region_name": "17",
+    "id": "nsv3147208",
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15555369,
+    "feature_type": "structural_variation"
+  },
+  {
+    "id": "nsv3141192",
+    "seq_region_name": "17",
+    "start": 14770178,
+    "strand": 1,
+    "end": 15566267,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "end": 15593498,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "id": "nsv3148984",
+    "start": 14770178,
+    "strand": 1
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15338864,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "start": 14860429,
+    "seq_region_name": "17",
+    "id": "nsv3904051"
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 22625625,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 14973667,
+    "id": "nsv6315238"
+  },
+  {
+    "start": 15066799,
+    "seq_region_name": "17",
+    "id": "nsv917095",
+    "strand": 1,
+    "end": 17472457,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 17472457,
+    "feature_type": "structural_variation",
+    "id": "nsv3913316",
+    "seq_region_name": "17",
+    "start": 15066799,
+    "strand": 1
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15390754,
+    "feature_type": "structural_variation",
+    "start": 15080357,
+    "seq_region_name": "17",
+    "id": "nsv1066329",
+    "strand": 1
+  },
+  {
+    "end": 15390754,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "id": "nsv543212",
+    "start": 15080357,
+    "strand": 1
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15279683,
+    "strand": 1,
+    "start": 15123684,
+    "seq_region_name": "17",
+    "id": "nsv6314961"
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15708439,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 15140036,
+    "id": "nsv492304"
+  },
+  {
+    "strand": 1,
+    "id": "nsv3913277",
+    "seq_region_name": "17",
+    "start": 15140036,
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15708439
+  },
+  {
+    "strand": 1,
+    "id": "esv3640062",
+    "seq_region_name": "17",
+    "start": 15167541,
+    "feature_type": "structural_variation",
+    "end": 15260216,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "end": 15952996,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "start": 15190283,
+    "id": "nsv916652",
+    "strand": 1
+  },
+  {
+    "end": 15952996,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "start": 15190283,
+    "seq_region_name": "17",
+    "id": "nsv3920787",
+    "strand": 1
+  },
+  {
+    "strand": 1,
+    "start": 15209141,
+    "seq_region_name": "17",
+    "id": "esv3640064",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15256214
+  },
+  {
+    "id": "nsv534600",
+    "seq_region_name": "17",
+    "start": 15210400,
+    "strand": 1,
+    "end": 18280816,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 18280816,
+    "feature_type": "structural_variation",
+    "start": 15210400,
+    "seq_region_name": "17",
+    "id": "nsv3920060",
+    "strand": 1
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15230770,
+    "strand": 1,
+    "id": "nsv4634060",
+    "seq_region_name": "17",
+    "start": 15221077
+  },
+  {
+    "seq_region_name": "17",
+    "start": 15225960,
+    "id": "nsv1991",
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15250740,
+    "feature_type": "structural_variation"
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15266357,
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 15228777,
+    "id": "nsv5673027"
+  },
+  {
+    "strand": 1,
+    "start": 15229767,
+    "seq_region_name": "17",
+    "id": "nsv6310123",
+    "feature_type": "structural_variation",
+    "end": 15231090,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "end": 15239621,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "start": 15229767,
+    "id": "nsv4683509",
+    "strand": 1
+  },
+  {
+    "start": 15229767,
+    "seq_region_name": "17",
+    "id": "nsv6310124",
+    "strand": 1,
+    "end": 15260737,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15260761,
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv3872916",
+    "start": 15229777
+  },
+  {
+    "start": 15229777,
+    "seq_region_name": "17",
+    "id": "nsv7098975",
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15260761,
+    "feature_type": "structural_variation"
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15260776,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "id": "nsv6112783",
+    "seq_region_name": "17",
+    "start": 15229779
+  },
+  {
+    "id": "nsv4452181",
+    "seq_region_name": "17",
+    "start": 15229779,
+    "strand": 1,
+    "end": 15261835,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "seq_region_name": "17",
+    "start": 15229779,
+    "id": "nsv997233",
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15265327,
+    "feature_type": "structural_variation"
+  },
+  {
+    "id": "nsv5673028",
+    "seq_region_name": "17",
+    "start": 15229780,
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15260737,
+    "feature_type": "structural_variation"
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15294208,
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "start": 15230481,
+    "id": "nsv4237867",
+    "strand": 1
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15230600,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv1860126",
+    "start": 15230567
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv3900350",
+    "start": 15230643,
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15266598
+  },
+  {
+    "end": 15230819,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "id": "nsv1859688",
+    "start": 15230798,
+    "strand": 1
+  },
+  {
+    "strand": 1,
+    "start": 15230897,
+    "seq_region_name": "17",
+    "id": "nsv3872085",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15259213
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15260747,
+    "strand": 1,
+    "id": "nsv5672958",
+    "seq_region_name": "17",
+    "start": 15230897
+  },
+  {
+    "start": 15230911,
+    "seq_region_name": "17",
+    "id": "nsv4451708",
+    "strand": 1,
+    "end": 15260733,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15260727,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv5980398",
+    "start": 15230916
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15260727,
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv5673029",
+    "start": 15230917
+  },
+  {
+    "start": 15234685,
+    "seq_region_name": "17",
+    "id": "nsv530562",
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 20620700,
+    "feature_type": "structural_variation"
+  },
+  {
+    "strand": 1,
+    "id": "nsv3923246",
+    "seq_region_name": "17",
+    "start": 15234685,
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 20620700
+  },
+  {
+    "seq_region_name": "17",
+    "id": "esv1982094",
+    "start": 15234804,
+    "strand": 1,
+    "end": 15234805,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15234825,
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "id": "nsv1859903",
+    "start": 15234813,
+    "strand": 1
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv1859465",
+    "start": 15235743,
+    "feature_type": "structural_variation",
+    "end": 15235770,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15235940,
+    "strand": 1,
+    "id": "nsv1859689",
+    "seq_region_name": "17",
+    "start": 15235923
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 15236067,
+    "id": "esv2246442",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15236068
+  },
+  {
+    "start": 15236067,
+    "seq_region_name": "17",
+    "id": "nsv1859904",
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15236080,
+    "feature_type": "structural_variation"
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15237288,
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv5426820",
+    "start": 15237237
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15238010,
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "start": 15238000,
+    "id": "nsv1859466",
+    "strand": 1
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15238683,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "id": "nsv108925",
+    "seq_region_name": "17",
+    "start": 15238683
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15239631,
+    "strand": 1,
+    "start": 15239451,
+    "seq_region_name": "17",
+    "id": "nsv3879684"
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15260747,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv7094957",
+    "start": 15239451
+  },
+  {
+    "end": 15239621,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "id": "nsv6310125",
+    "start": 15239461,
+    "strand": 1
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15260737,
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv4454210",
+    "start": 15239461
+  },
+  {
+    "start": 15239612,
+    "seq_region_name": "17",
+    "id": "nsv3889368",
+    "strand": 1,
+    "end": 15260727,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15243709,
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "esv2161602",
+    "start": 15243706
+  },
+  {
+    "end": 15243741,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "start": 15243720,
+    "seq_region_name": "17",
+    "id": "nsv1859467",
+    "strand": 1
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15245863,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 15245851,
+    "id": "nsv1859468"
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 15246020,
+    "id": "nsv1859690",
+    "feature_type": "structural_variation",
+    "end": 15246045,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 15247086,
+    "id": "esv1086742",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15247087
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15247386,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv1859470",
+    "start": 15247370
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15252266,
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv4234968",
+    "start": 15247424
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15248596,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "id": "nsv6503307",
+    "seq_region_name": "17",
+    "start": 15248303
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15248599,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 15248303,
+    "id": "nsv4237753"
+  },
+  {
+    "start": 15248303,
+    "seq_region_name": "17",
+    "id": "nsv4864537",
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15248599,
+    "feature_type": "structural_variation"
+  },
+  {
+    "strand": 1,
+    "id": "nsv1859905",
+    "seq_region_name": "17",
+    "start": 15248839,
+    "feature_type": "structural_variation",
+    "end": 15248858,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "end": 15259215,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "id": "nsv530760",
+    "start": 15249474,
+    "strand": 1
+  },
+  {
+    "start": 15249474,
+    "seq_region_name": "17",
+    "id": "nsv3924530",
+    "strand": 1,
+    "end": 15259215,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 15252391,
+    "id": "nsv1860128",
+    "feature_type": "structural_variation",
+    "end": 15252434,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "end": 15252409,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "start": 15252398,
+    "seq_region_name": "17",
+    "id": "esv1005267",
+    "strand": 1
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15252434,
+    "strand": 1,
+    "id": "esv1620474",
+    "seq_region_name": "17",
+    "start": 15252422
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15260727,
+    "strand": 1,
+    "start": 15259074,
+    "seq_region_name": "17",
+    "id": "nsv7095077"
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv5672867",
+    "start": 15259084,
+    "feature_type": "structural_variation",
+    "end": 15259203,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15259206,
+    "strand": 1,
+    "start": 15259084,
+    "seq_region_name": "17",
+    "id": "nsv6310126"
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15260737,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 15259084,
+    "id": "nsv4683318"
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15503232,
+    "feature_type": "structural_variation",
+    "id": "nsv3871240",
+    "seq_region_name": "17",
+    "start": 15259094,
+    "strand": 1
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 20925299,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "id": "nsv530565",
+    "seq_region_name": "17",
+    "start": 15259164
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 15259164,
+    "id": "nsv3921507",
+    "feature_type": "structural_variation",
+    "end": 20925299,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "strand": 1,
+    "start": 15259224,
+    "seq_region_name": "17",
+    "id": "nsv1860129",
+    "feature_type": "structural_variation",
+    "end": 15259238,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15259799,
+    "feature_type": "structural_variation",
+    "start": 15259786,
+    "seq_region_name": "17",
+    "id": "nsv1859906",
+    "strand": 1
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15259939,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "id": "esv1096518",
+    "seq_region_name": "17",
+    "start": 15259938
+  },
+  {
+    "strand": 1,
+    "start": 15260297,
+    "seq_region_name": "17",
+    "id": "esv2009895",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15260297
+  },
+  {
+    "id": "nsv6634530",
+    "seq_region_name": "17",
+    "start": 15260762,
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15265358,
+    "feature_type": "structural_variation"
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 15262971,
+    "id": "nsv4243194",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15277715
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15277715,
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "start": 15262971,
+    "id": "nsv5026007",
+    "strand": 1
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15277715,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "start": 15262971,
+    "seq_region_name": "17",
+    "id": "nsv4858166"
+  },
+  {
+    "seq_region_name": "17",
+    "start": 15262971,
+    "id": "nsv6503973",
+    "strand": 1,
+    "end": 15277715,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "strand": 1,
+    "start": 15263583,
+    "seq_region_name": "17",
+    "id": "esv1157340",
+    "feature_type": "structural_variation",
+    "end": 15263587,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15263604,
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv1859907",
+    "start": 15263584
+  },
+  {
+    "strand": 1,
+    "start": 15263593,
+    "seq_region_name": "17",
+    "id": "nsv105046",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15263593
+  },
+  {
+    "end": 15263595,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation",
+    "id": "nsv108554",
+    "seq_region_name": "17",
+    "start": 15263595,
+    "strand": 1
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15263604,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "id": "esv1519577",
+    "seq_region_name": "17",
+    "start": 15263604
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15264079,
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 15264079,
+    "id": "nsv106501"
+  },
+  {
+    "strand": 1,
+    "id": "esv2563568",
+    "seq_region_name": "17",
+    "start": 15264208,
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15264211
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15264212,
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "start": 15264208,
+    "id": "esv2383644",
+    "strand": 1
+  },
+  {
+    "seq_region_name": "17",
+    "id": "nsv106502",
+    "start": 15264227,
+    "strand": 1,
+    "end": 15264227,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "seq_region_name": "17",
+    "id": "nsv1859692",
+    "start": 15264231,
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15264270,
+    "feature_type": "structural_variation"
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15264234,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv111313",
+    "start": 15264234
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15264256,
+    "strand": 1,
+    "start": 15264254,
+    "seq_region_name": "17",
+    "id": "esv2266397"
+  },
+  {
+    "strand": 1,
+    "id": "esv1179359",
+    "seq_region_name": "17",
+    "start": 15264256,
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15264256
+  },
+  {
+    "start": 15264256,
+    "seq_region_name": "17",
+    "id": "esv2456873",
+    "strand": 1,
+    "end": 15264256,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15264257,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv111314",
+    "start": 15264257
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15264257,
+    "feature_type": "structural_variation",
+    "seq_region_name": "17",
+    "id": "nsv106503",
+    "start": 15264257,
+    "strand": 1
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15265852,
+    "strand": 1,
+    "start": 15265677,
+    "seq_region_name": "17",
+    "id": "esv8863"
+  },
+  {
+    "strand": 1,
+    "id": "esv2640114",
+    "seq_region_name": "17",
+    "start": 15266740,
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15266740
+  },
+  {
+    "feature_type": "structural_variation",
+    "end": 15266741,
+    "assembly_name": "GRCh38",
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "esv2155775",
+    "start": 15266741
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv1859471",
+    "start": 15266741,
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15266797
+  },
+  {
+    "seq_region_name": "17",
+    "id": "esv2169055",
+    "start": 15266764,
+    "strand": 1,
+    "end": 15266768,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 15266779,
+    "feature_type": "structural_variation",
+    "id": "esv2548876",
+    "seq_region_name": "17",
+    "start": 15266776,
+    "strand": 1
+  },
+  {
+    "seq_region_name": "17",
+    "start": 15266800,
+    "id": "nsv1860130",
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15266815,
+    "feature_type": "structural_variation"
+  },
+  {
+    "start": 15267010,
+    "seq_region_name": "17",
+    "id": "nsv3343652",
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15267069,
+    "feature_type": "structural_variation"
+  },
+  {
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15268894,
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv1859908",
+    "start": 15268825
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "start": 15269101,
+    "id": "esv3205108",
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15269102
+  },
+  {
+    "id": "esv2403373",
+    "seq_region_name": "17",
+    "start": 15269102,
+    "strand": 1,
+    "end": 15269103,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "start": 15269109,
+    "seq_region_name": "17",
+    "id": "esv1097943",
+    "strand": 1,
+    "assembly_name": "GRCh38",
+    "end": 15269110,
+    "feature_type": "structural_variation"
+  },
+  {
+    "seq_region_name": "17",
+    "id": "esv2491642",
+    "start": 15269110,
+    "strand": 1,
+    "end": 15269110,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv1859473",
+    "start": 15271359,
+    "feature_type": "structural_variation",
+    "end": 15271371,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv3909285",
+    "start": 15271437,
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15282168
+  },
+  {
+    "start": 15272253,
+    "seq_region_name": "17",
+    "id": "nsv3899574",
+    "strand": 1,
+    "end": 15282067,
+    "assembly_name": "GRCh38",
+    "feature_type": "structural_variation"
+  },
+  {
+    "strand": 1,
+    "seq_region_name": "17",
+    "id": "nsv3901238",
+    "start": 15272253,
+    "feature_type": "structural_variation",
+    "assembly_name": "GRCh38",
+    "end": 15282168
+  }
+]
