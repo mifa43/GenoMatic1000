@@ -1,0 +1,7 @@
+SYNTHETIC LAB REPORT FIXTURE - NOT REAL PATIENT DATA
+Test: CNV analysis / chromosomal microarray-style notation
+Genome build: GRCh38/hg38
+Result: arr[GRCh38] 17p12(15229773_15272292)x3
+Interpretation: Copy number gain involving PMP22 region. This fixture is intended only for parser development.
+Gene(s): PMP22
+Candidate condition mapping: CMT1A / PMP22 duplication

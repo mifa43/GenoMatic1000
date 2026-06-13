@@ -1,0 +1,3 @@
+sample_id,assembly,chromosome,start,end,copy_number,call,gene,caller,quality
+SAMPLE_001,GRCh38,chr17,15229773,15272292,3,gain,PMP22,synthetic_cnv_fixture,0.98
+SAMPLE_002,GRCh38,17,15229773,15272292,1,loss,PMP22,synthetic_cnv_fixture,0.95

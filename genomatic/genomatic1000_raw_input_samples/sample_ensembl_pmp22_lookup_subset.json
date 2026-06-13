@@ -1,0 +1,67 @@
+{
+  "source": "Ensembl REST snapshot from uploaded GenoMatic1000 project",
+  "target": {
+    "gene_symbol": "PMP22",
+    "ensembl_gene_id": "ENSG00000109099",
+    "assembly": "GRCh38",
+    "chrom": "17",
+    "start": 15229773,
+    "end": 15272292,
+    "strand": -1
+  },
+  "lookup_subset": {
+    "id": "ENSG00000109099",
+    "display_name": "PMP22",
+    "description": "peripheral myelin protein 22 [Source:HGNC Symbol;Acc:HGNC:9118]",
+    "biotype": "protein_coding",
+    "seq_region_name": "17",
+    "start": 15229773,
+    "end": 15272292,
+    "strand": -1,
+    "assembly_name": "GRCh38",
+    "canonical_transcript": "ENST00000312280.9"
+  },
+  "transcript_count": 44,
+  "first_transcripts": [
+    {
+      "id": "ENST00000674673",
+      "display_name": "PMP22-215",
+      "biotype": "protein_coding",
+      "start": 15229773,
+      "end": 15263190,
+      "is_canonical": 0
+    },
+    {
+      "id": "ENST00000676002",
+      "display_name": "PMP22-227",
+      "biotype": "protein_coding_CDS_not_defined",
+      "start": 15229779,
+      "end": 15231922,
+      "is_canonical": 0
+    },
+    {
+      "id": "ENST00000676329",
+      "display_name": "PMP22-231",
+      "biotype": "protein_coding",
+      "start": 15229779,
+      "end": 15260761,
+      "is_canonical": 0
+    },
+    {
+      "id": "ENST00000675551",
+      "display_name": "PMP22-222",
+      "biotype": "protein_coding",
+      "start": 15229779,
+      "end": 15260761,
+      "is_canonical": 0
+    },
+    {
+      "id": "ENST00000675819",
+      "display_name": "PMP22-224",
+      "biotype": "protein_coding",
+      "start": 15229779,
+      "end": 15262543,
+      "is_canonical": 0
+    }
+  ]
+}
