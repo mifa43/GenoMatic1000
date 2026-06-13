@@ -1,15 +1,20 @@
-import magic
-import os
-import pandas as pd
+from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parents[4]
+GENOMATIC_ROOT = PROJECT_ROOT / "genomatic"
+
+SAMPLE_WORKING_DIR = GENOMATIC_ROOT / "genomatic1000_raw_input_samples"
+
+SUPPORTED_EXTENSIONS = {
+    ".csv",
+    ".tsv",
+    ".json",
+    ".txt",
+    ".vcf",
+    ".bed",
+}
 
 
-
-def load_dynamic_file(file_path: str):
-    """
-    Function used to detect file type (VCF, BED, CSV, TSV, JSON, lab report)
-    """
-    
-    detect_file_type = magic.from_file(file_path, mime=True)
-    print(f"Detected file type: {detect_file_type}")
-    
-load_dynamic_file("genomatic\genomatic1000_raw_input_samples\sample_pmp22_target.bed")
+def detect_file_type(file_path: str | Path) -> str | None:
+    file_extension = Path(file_path).suffix.lower()
+    return file_extension if file_extension in SUPPORTED_EXTENSIONS else None
