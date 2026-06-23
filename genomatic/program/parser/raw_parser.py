@@ -1,11 +1,9 @@
-from pathlib import Path
-from typing import Any
 import json
 import pandas as pd
+from pathlib import Path
+from typing import Any
 
-# Unutar raw_parser.py promeni ovo:
 from parser.helpers.detect_file_type import detect_file_type
-
 
 class RawParser:
     def __init__(self, file_path: str | Path):
