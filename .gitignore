@@ -1,3 +1,12 @@
-
+# Ignorira sve __init__.py fileove
 __init__.py
-__pycache__/*
+
+
+# Ignorira sve __pycache__ direktorije
+__pycache__/
+
+# Ignorira .pyc, .pyo i .pyd datoteke (kompilirani Python bytecode)
+*.py[cod]
+
+# Ignorira __pycache__ unutar svake direktorije (alternativno)
+**/__pycache__/
