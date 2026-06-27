@@ -1,7 +1,6 @@
 # Ignorira sve __init__.py fileove
 __init__.py
 
-
 # Ignorira sve __pycache__ direktorije
 __pycache__/
 
